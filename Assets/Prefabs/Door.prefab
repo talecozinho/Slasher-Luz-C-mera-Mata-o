@@ -50,7 +50,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 134977792077692202}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -102,7 +102,7 @@ BoxCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -118,4 +118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3095fc496c5f17848b099a0f0c21af9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  difficulty: 1
   Enemy: {fileID: 7656117712066118854, guid: be7e59f9a3ae8d043a301a6050bebd74, type: 3}
+  Recharge: {fileID: 5026671536384589970, guid: 925f91ceee8c58042980e9b7aa590ab7, type: 3}

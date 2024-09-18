@@ -12,6 +12,12 @@ public class CameraMechanics : MonoBehaviour
     public Transform attackPoint;
     public RaycastHit rayHit;
     public LayerMask whatIsEnemy;
+    new Light light;
+
+    void Start()
+    {
+        light = GameObject.Find("Spot Light").GetComponent<Light>();
+    }
 
     private void MyInput()
     {
@@ -28,6 +34,7 @@ public class CameraMechanics : MonoBehaviour
         if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out rayHit, range, whatIsEnemy))
         {
             battery -= 30;
+            light.intensity = 10.0f;
         }
         if (rayHit.collider.CompareTag("Enemy"))
         {
@@ -40,4 +47,10 @@ public class CameraMechanics : MonoBehaviour
     {
         MyInput();
     }
+
+    public void Reload()
+    {
+        battery = 100;
+    }
+
 }

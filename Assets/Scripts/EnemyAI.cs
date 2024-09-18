@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -53,6 +54,7 @@ public class EnemyAI : MonoBehaviour
         else if (walkPointSet)
         {
             agent.SetDestination(walkPoint);
+            gameObject.transform.LookAt(walkPoint);
         }
 
         Vector3 distanceToWalkPoint = transform.position - walkPoint;
@@ -80,6 +82,7 @@ public class EnemyAI : MonoBehaviour
     private void Chasing()
     {
         agent.SetDestination(player.position);
+        gameObject.transform.LookAt(player.position);
     }
 
     public void DestroyEnemy()
