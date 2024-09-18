@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\talec\\Slasher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|c:\\users\\talec\\slasher\\assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\batteryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batteryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|c:\\users\\talec\\slasher\\assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BatteryScript.cs",
               "DocumentMoniker": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\BatteryScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BatteryScript.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\BatteryScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\BatteryScript.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:14:02.619Z"
+              "WhenOpened": "2024-09-18T11:14:02.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Flashlight.cs",
               "DocumentMoniker": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\Flashlight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Flashlight.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\Flashlight.cs",
               "RelativeToolTip": "Assets\\Scripts\\Flashlight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:08:33.02Z"
+              "WhenOpened": "2024-09-04T01:08:33.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAgwBwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T20:17:55.566Z"
+              "WhenOpened": "2024-09-03T20:17:55.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CameraMechanics.cs",
               "DocumentMoniker": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\CameraMechanics.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMechanics.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\CameraMechanics.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraMechanics.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAtwCYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:11:06.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T20:14:34.209Z"
+              "WhenOpened": "2024-09-03T20:14:34.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAuwD8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T13:53:20.458Z"
+              "WhenOpened": "2024-09-02T13:53:20.458Z",
+              "EditorCaption": ""
             }
           ]
         }

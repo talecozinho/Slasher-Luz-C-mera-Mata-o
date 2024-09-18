@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\talec\\Slasher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|c:\\users\\talec\\slasher\\assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|c:\\users\\talec\\slasher\\assets\\scripts\\batteryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|C:\\Users\\talec\\Slasher\\assets\\scripts\\batteryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{277EBFAF-5A28-DC97-9CFE-F6B30C096848}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batteryscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "Assets\\Scripts\\BatteryScript.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:14:02.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T11:14:02.619Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMechanics.cs",
               "ToolTip": "C:\\Users\\talec\\Slasher\\Assets\\Scripts\\CameraMechanics.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraMechanics.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:11:06.344Z",
               "EditorCaption": ""
